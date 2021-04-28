@@ -48,3 +48,15 @@ DDMSNet Pre-trained Model:
 ## **Download links of Desnowed Picture through Our Method** ##
 - SnowKITTI2012 & SnowCityScapes: https://pan.baidu.com/s/1IuD1BMffXCS053D3dZ26dw, extraction code: 12ab
 - Snow100K: https://pan.baidu.com/s/1iN4edXIFTeWJ0EJ4Vhossw, extraction code: 12ab
+
+
+### Citation
+```bibtex
+  @article{zhang2021deep,
+    title={Deep Dense Multi-scale Network for Snow Removal Using Semantic and Geometric Priors},
+    author={Zhang, Kaihao and Li, Rongqing and Yu, Yanjiang and Luo, Wenhan and Li, Changsheng and Li, Hongdong},
+    journal={arXiv preprint arXiv:2103.11298},
+    year={2021}
+  }
+```
+
