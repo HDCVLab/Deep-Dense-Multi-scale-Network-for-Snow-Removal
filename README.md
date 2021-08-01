@@ -1,5 +1,5 @@
-# **Deep Dense Multi-scale Network for Snow Removal Using Semantic and Geometric Priors**
-This project provides source code for paper: ***Deep Dense Multi-scale Network for Snow Removal Using Semantic and Geometric Priors***
+# **Deep Dense Multi-scale Network for Snow Removal Using Semantic and Depth Priors**
+This project provides source code for paper: ***Deep Dense Multi-scale Network for Snow Removal Using Semantic and Depth Priors***
 
 
 ## **Pre-works**
