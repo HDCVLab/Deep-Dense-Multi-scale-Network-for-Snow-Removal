@@ -1,5 +1,5 @@
-# **Deep Dense Multi-scale Network for Snow Removal Using Semantic and Depth Priors**
-This project provides source code for paper: ***Deep Dense Multi-scale Network for Snow Removal Using Semantic and Depth Priors***
+# **Deep Dense Multi-scale Network for Snow Removal Using Semantic and Depth Priors (TIP-2021)**
+This project provides source code for paper: ***Deep Dense Multi-scale Network for Snow Removal Using Semantic and Depth Priors (TIP-2021)***
 
 
 ## **Pre-works**
@@ -54,8 +54,8 @@ DDMSNet Pre-trained Model:
 ```bibtex
   @article{zhang2021deep,
     title={Deep Dense Multi-scale Network for Snow Removal Using Semantic and Geometric Priors},
-    author={Zhang, Kaihao and Li, Rongqing and Yu, Yanjiang and Luo, Wenhan and Li, Changsheng and Li, Hongdong},
-    journal={arXiv preprint arXiv:2103.11298},
+    author={Zhang, Kaihao and Li, Rongqing and Yu, Yanjiang and Luo, Wenhan and Li, Changsheng},
+    journal={IEEE Transactions on Image Processing},
     year={2021}
   }
 ```
